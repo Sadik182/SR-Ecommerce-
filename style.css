@@ -67,6 +67,7 @@ a {
 .col-2 p {
     margin: 20px 0;
     font-size: 20px;
+    text-align: left;
     
 }
 .col-2 img {
